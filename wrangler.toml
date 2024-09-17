@@ -1,3 +1,7 @@
 name = "dawn-night-1e36" # todo!!!!!
 main = "./src/index.ts"
 compatibility_date = "2023-03-30"
+
+# wrangler.toml
+[observability]
+enabled = true
