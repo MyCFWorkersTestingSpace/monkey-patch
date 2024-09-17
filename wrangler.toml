@@ -1,4 +1,4 @@
-name = "dawn-night-1e36" # todo!!!!!
+name = "dawn-night-1e36" # todo!!!
 main = "./src/index.ts"
 compatibility_date = "2023-03-30"
 
