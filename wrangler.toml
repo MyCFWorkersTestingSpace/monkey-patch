@@ -4,4 +4,4 @@ compatibility_date = "2023-03-30"
 
 # wrangler.toml
 [observability]
-enabled = true
+enabled = false
