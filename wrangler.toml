@@ -5,3 +5,9 @@ compatibility_date = "2023-03-30"
 # wrangler.toml
 [observability]
 enabled = false
+
+[env.staging]
+vars = { ENVIRONMENT = "staging" }
+
+[env.production]
+vars = { ENVIRONMENT = "production" }
