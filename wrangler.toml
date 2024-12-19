@@ -1,4 +1,4 @@
-name = "wispy-resonance-6b30" # todo!
+name = "wispy-resonance-6b301" # todo!
 main = "./src/index.ts"
 compatibility_date = "2023-03-30"
 
