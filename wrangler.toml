@@ -1,4 +1,5 @@
-name = "wispy-resonance-6b301" # todo!
+# wrangler.toml
+project_name = 'wispy-resonance-6b301-1'
 main = "./src/index.ts"
 compatibility_date = "2023-03-30"
 
